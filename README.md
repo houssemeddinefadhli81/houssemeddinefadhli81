@@ -1,27 +1,46 @@
-# Hi there, I'm Houssem Eddine Fadhli 👋
+# Houssem Eddine Fadhli
 
-I'm a dedicated Software Engineer specializing in Flutter mobile development. With a passion for crafting high-quality applications for both iOS and Android, I strive to create seamless user experiences through clean code and robust design.
+**Software Engineer | Flutter Expert | Mobile Architect | Project Management Enthusiast**
 
-## 🚀 About Me
+I’m a passionate software engineer specializing in **cross-platform mobile development** with Flutter, while maintaining strong roots in **Kotlin** and **Swift** for native Android and iOS. I take pride in building scalable, high-performance applications that offer seamless user experiences.
 
-- 🌱 I’m currently focused on developing mobile applications using Flutter and Dart.
-- 💻 I have a strong foundation in software engineering principles, including SOLID principles, design patterns, and object-oriented programming (OOP).
-- 📚 I love learning new technologies and improving my skills in data structures and algorithms.
-- 🔍 Always exploring ways to enhance my code quality and application performance.
+---
 
-## 🛠️ Technologies & Tools
+## About Me
 
-- **Languages:** Dart, Java, Kotlin, Swift
-- **Frameworks:** Flutter, Firebase
-- **Tools:** Git, Visual Studio Code, Android Studio, Xcode
-- **Methodologies:** Agile, Clean Code, TDD
+With a deep appreciation for clean architecture, design systems, and software craftsmanship, I focus on delivering high-quality solutions that merge design and engineering. I thrive in agile environments and enjoy taking ownership of projects, from technical execution to delivery.
 
-Feel free to reach out if you want to collaborate on a project or just want to connect!
+---
 
-## 🎯 Goals
+## Areas of Focus
 
-- Continue improving my Flutter skills and contribute to open-source projects.
-- Stay updated with the latest trends in mobile app development.
-- Mentor aspiring developers and share knowledge with the community.
+- **Flutter** — My core specialization: performant, maintainable, and elegant mobile apps.
+- **Native Development** — Kotlin and Swift for when low-level control is needed.
+- **Architecture** — MVVM, Clean Architecture, and SOLID principles.
+- **Project Management** — Enthusiastic about agile methodology, sprint planning, and stakeholder alignment.
 
-Thank you for visiting my profile! Let's build something amazing together!
+---
+
+## Technologies & Tools
+
+- **Languages**: Dart, Kotlin, Swift, Java
+- **Frameworks**: Flutter, Firebase
+- **Dev Tools**: Android Studio, Xcode, VS Code, Git
+- **Practices**: TDD, Clean Code, Agile, CI/CD, Solid Principles
+
+---
+
+## Objectives
+
+- Contribute to open-source projects and the Flutter ecosystem.
+- Build tools and packages that serve developers and product teams.
+- Mentor upcoming mobile developers and support knowledge sharing.
+- Continuously refine my technical and leadership skills.
+  
+---
+
+## Connect
+
+If you're looking to collaborate on innovative mobile experiences, discuss architecture, or share insights on engineering leadership — I'm open to meaningful connections.
+
+---
