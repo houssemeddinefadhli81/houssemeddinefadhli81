@@ -42,5 +42,3 @@ With a deep appreciation for clean architecture, design systems, and software cr
 ## Connect
 
 If you're looking to collaborate on innovative mobile experiences, discuss architecture, or share insights on engineering leadership — I'm open to meaningful connections.
-
----
